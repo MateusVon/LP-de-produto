@@ -93,7 +93,7 @@ ul [role="list"] {
 
 img {
   max-width: 100%;
-  display: block;
+  display: inline-block;
 }
 
 @media (width >= 80em) {
