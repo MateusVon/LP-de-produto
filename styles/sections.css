@@ -1,0 +1,13 @@
+#smartphones-img {
+  background: url(../assets/illustration.svg) top/cover;
+}
+
+section {
+
+}
+
+@media (width >= 80em) {
+  #smartphones-img {
+    display: none;
+  }
+}
